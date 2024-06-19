@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^22.11.2"
+  },
+  "name": "linkedin-automation",
+  "version": "1.0.3",
+  "description": "this is a linkedin automation for sending connection request with custom message ",
+  "main": "linkedin.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linkedinautomation",
+    "linkedin"
+  ],
+  "author": "AFSAL MADATHINGAL",
+  "license": "ISC"
+}
