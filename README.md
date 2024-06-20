@@ -85,7 +85,7 @@ Here’s a complete example setup:
 
 ## Support Me 
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy_Me_A_Coffee-yellow.svg)](https://www.buymeacoffee.com/afsalmadathingal)
+[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy_Me_A_Coffee-yellow.svg)](https://shorturl.at/SpMRB)
 
 ## Security Note
 
