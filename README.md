@@ -85,7 +85,7 @@ Here’s a complete example setup:
 
 ## Support Me 
 
-Buy me a coffee: [https://www.buymeacoffee.com/afsalmadathingal](https://www.buymeacoffee.com/afsalmadathingal)
+Buy me a coffee: [https://shorturl.at/SpMRB](Afsal Madathingal)
 
 ## Security Note
 
