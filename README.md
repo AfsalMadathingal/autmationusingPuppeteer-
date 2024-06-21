@@ -12,7 +12,7 @@ This package automates the process of sending connection requests on LinkedIn us
 Install the package using NPM:
 
 ```bash
-npm install linkedin-connector
+npm i linkedin-automation
 ```
 
 ## Usage
